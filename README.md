@@ -10,7 +10,7 @@ CountVectorizer faz o pré processamento antes dos modelos serem treinados.
 ### NAIVE BAYES
 
 ### SUPORT VECTOR MACHINES (SVM)
-O modelo de suport vector machines tem como objetivo achar um hiperplano que consiga dividir melhor os dados. Para a implementação desse modelo, utilizei a biblioteca scikit-learn.
+O modelo de Suport Vector Machines tem como objetivo achar um hiperplano que consiga dividir melhor os dados. Para a implementação desse modelo, utilizei a biblioteca scikit-learn.
 
 ## Bibliotecas utilizadas
 * [NLTK](https://www.nltk.org/)
