@@ -6,12 +6,11 @@ Este projeto tem como foco fazer a análise de sentimento das reviews das difere
 VADER é um modelo provido da biblioteca NLTK. Por meio dele é possível realizar análise de sentimento dos textos, conseguindo através de scores, dizer se uma parte do discurso tem teor positivo ou negativo. Utilizei este modelo pré treinado para fazer comparações com os modelos que treinei ao longo do notebook.
 
 ### COUNTVECTORIZER
-
+CountVectorizer faz o pré processamento antes dos modelos serem treinados. 
 ### NAIVE BAYES
 
 ### SUPORT VECTOR MACHINES (SVM)
-
-
+O modelo de suport vector machines tem como objetivo achar um hiperplano que consiga dividir melhor os dados. Para a implementação desse modelo, utilizei a biblioteca scikit-learn.
 
 ## Bibliotecas utilizadas
 * [NLTK](https://www.nltk.org/)
