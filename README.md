@@ -13,4 +13,8 @@ Este projeto tem como foco fazer a análise de sentimento das reviews das difere
 
 
 ## Bibliotecas utilizadas
-[NLTK](https://www.nltk.org/)
+* [NLTK](https://www.nltk.org/)
+* [SEABORN](https://seaborn.pydata.org/)
+*
+
+
