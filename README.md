@@ -3,6 +3,7 @@ Este projeto tem como foco fazer a análise de sentimento das reviews das difere
 
 ## Técnicas Utilizadas
 ### VADER - MODELO PRÉ TREINADO
+VADER é um modelo provido da biblioteca NLTK. Por meio dele é possível realizar análise de sentimento dos textos, conseguindo através de scores, dizer se uma parte do discurso tem teor positivo ou negativo. Utilizei este modelo pré treinado para fazer comparações com os modelos que treinei ao longo do notebook.
 
 ### COUNTVECTORIZER
 
