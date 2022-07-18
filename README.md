@@ -16,5 +16,7 @@ Este projeto tem como foco fazer a análise de sentimento das reviews das difere
 * [NLTK](https://www.nltk.org/)
 * [SEABORN](https://seaborn.pydata.org/)
 * [SCIKIT-LEARN](https://scikit-learn.org/stable/)
+* [MATPLOTLIB](https://matplotlib.org/)
+
 
 
