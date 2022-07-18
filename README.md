@@ -10,7 +10,7 @@ CountVectorizer faz o pré processamento antes dos modelos serem treinados.
 ### NAIVE BAYES
 O modeloo de Naive Bayes é um classificador probabilístico que é baseado na aplicação do teorema de Bayes, pressupondo do princípio que todas as variáveis são independentes entre si. Para esse modelo, utilizei a biblioteca scikit-learn.
 ### SUPORT VECTOR MACHINES (SVM)
-O modelo de Suport Vector Machines tem como objetivo achar um hiperplano que consiga dividir melhor os dados. Para a implementação desse modelo, utilizei a biblioteca scikit-learn.
+O modelo de Suport Vector Machines tem como objetivo achar um hiperplano que consiga dividir melhor os dados. Para a implementação desse modelo, também utilizei a biblioteca scikit-learn.
 
 ## Bibliotecas utilizadas
 * [NLTK](https://www.nltk.org/)
