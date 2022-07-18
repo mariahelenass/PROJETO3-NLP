@@ -6,7 +6,8 @@ Este projeto tem como foco fazer a análise de sentimento das reviews das difere
 VADER é um modelo provido da biblioteca NLTK. Por meio dele é possível realizar análise de sentimento dos textos, conseguindo através de scores, dizer se uma parte do discurso tem teor positivo ou negativo. Utilizei este modelo pré treinado para fazer comparações com os modelos que treinei ao longo do notebook.
 
 ### COUNTVECTORIZER
-CountVectorizer faz o pré processamento antes dos modelos serem treinados. 
+Provido do scikit-learn, CountVectorizer é uma técnica de pré processamento antes dos modelos serem treinados. Essa técnica consiste em converter os textos em uma contagem de termos.
+
 ### NAIVE BAYES
 O modeloo de Naive Bayes é um classificador probabilístico que é baseado na aplicação do teorema de Bayes, pressupondo do princípio que todas as variáveis são independentes entre si. Para esse modelo, utilizei a biblioteca scikit-learn.
 ### SUPORT VECTOR MACHINES (SVM)
