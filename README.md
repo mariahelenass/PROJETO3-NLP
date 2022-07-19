@@ -18,6 +18,6 @@ O modelo de Suport Vector Machines tem como objetivo achar um hiperplano que con
 * [SEABORN](https://seaborn.pydata.org/)
 * [SCIKIT-LEARN](https://scikit-learn.org/stable/)
 * [MATPLOTLIB](https://matplotlib.org/)
-*[PANDAS](https://pandas.pydata.org/)
+* [PANDAS](https://pandas.pydata.org/)
 
 
